@@ -1,0 +1,541 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start with creating character
+
+
+Assistant: .
+
+You are in the land of Eldoria, a realm of magic and mystery. Your quest begins in the small village of Oakwood, where rumors have been circulating about a powerful artifact hidden deep within the nearby forest. The villagers are afraid to venture into the forest, as strange occurrences have been reported, including eerie lights and disembodied voices.
+
+You are a brave adventurer seeking fortune and glory. You have the following attributes:
+
+* Strength: 10
+* Dexterity: 12
+* Constitution: 14
+* Intelligence: 8
+* Wisdom: 10
+* Charisma: 12
+
+You also have the following skills:
+
+* Acrobatics: +2
+* Perception: +2
+* Persuasion: +3
+* Intimidation: +1
+
+What would you like to do first?
+
+A) Head into the forest to search for the artifact
+B) Gather information from the villagers about the strange occurrences
+C) Visit the local tavern to gather rumors and gossip
+D) Seek out a guide or companion to aid in your quest
+
+Choose your response:
+
+
+User: B
+
+
+Assistant: You decide to gather more information from the villagers about the strange occurrences. As you walk through the village, you notice that everyone seems nervous and on edge. They glance at you suspiciously, as if they're not sure what to make of you.
+
+You approach the village elder, a wise-looking woman named Elara, who's sitting by the fire in the town square. She looks up at you with a mixture of curiosity and concern.
+
+"Can I help you, adventurer?" she asks.
+
+You explain that you're interested in learning more about the strange occurrences in the forest. Elara nods thoughtfully.
+
+"Yes, it's been happening for weeks now," she says. "People have reported hearing whispers in the wind, seeing shadowy figures lurking at the edge of the trees, and finding strange symbols etched into the trunks of the trees."
+
+She leans in closer, her voice taking on a conspiratorial tone.
+
+"Some folks think it's the work of dark magic," she says. "Others believe it's just the forest itself trying to warn us away from something."
+
+Elara hands you a rough map of the forest, pointing out several locations where the strange occurrences have been reported.
+
+"Be careful, adventurer," she warns. "The forest can be treacherous, especially at night."
+
+As you take the map, you notice a figure watching you from across the square. It's a young man with piercing green eyes and jet-black hair. He looks like he's been waiting for you.
+
+Do you:
+
+A) Approach the mysterious stranger
+B) Ignore him and head into the forest
+C) Ask Elara more questions about the strange occurrences
+D) Visit the local blacksmith to gather supplies
+
+Choose your response:
+
+
+User: B
+
+
+Assistant: You decide to ignore the mysterious stranger for now and head into the forest. You thank Elara for the information and the map, and set off towards the trees.
+
+As you enter the forest, you notice that it's eerily quiet. The only sounds are the rustling of leaves and the snapping of twigs beneath your feet. You can't shake the feeling that you're being watched, but every time you turn around, there's no one there.
+
+You follow the map to the first location marked as a spot of strange occurrences: a clearing surrounded by ancient trees. As you approach, you notice that the air seems to grow colder and the shadows seem to deepen. You can feel a malevolent presence lurking just out of sight.
+
+Suddenly, you hear a faint whispering in your ear. It's soft and raspy, and it sends shivers down your spine.
+
+"Leave now, while you still can," the voice whispers.
+
+You spin around, but there's no one there. The whisper seems to come from all around you, echoing off the trees.
+
+You take a deep breath and try to shake off the feeling of unease. You're here to explore the forest, not to be spooked by some creepy voice.
+
+As you examine the clearing more closely, you notice that the ancient trees seem to be arranged in a deliberate pattern. There's a large stone at the center of the clearing, and it bears an inscription:
+
+"Beware the eyes that see in darkness"
+
+You wonder what this message might mean.
+
+Do you:
+
+A) Try to decipher the meaning of the inscription
+B) Search the perimeter of the clearing for any signs of danger
+C) Leave the clearing and head deeper into the forest
+D) Meditate on the whispering voice, trying to understand its origins
+
+Choose your response:
+
+
+User: A
+
+
+Assistant: You decide to try to decipher the meaning of the inscription. You study it carefully, looking for any hidden symbols or codes.
+
+As you examine the stone, you notice that the words seem to be arranged in a specific pattern. The letters are slightly larger at the center of the inscription, and they gradually decrease in size as you move towards the edges.
+
+You wonder if this might be some sort of cipher, and you begin to look for patterns or hidden messages. After a few moments of study, you notice that each letter is associated with a specific symbol from an ancient language.
+
+Using your knowledge of cryptography, you manage to decipher the message. It reads:
+
+"The eyes that see in darkness are not of this world."
+
+You ponder the meaning of these words. What could they possibly refer to? And what kind of "eyes" might be able to see in darkness?
+
+As you stand there, lost in thought, you hear a faint rustling in the underbrush nearby. You turn to see a figure emerging from the trees.
+
+It's the young man with piercing green eyes and jet-black hair. He approaches you calmly, his gaze fixed on yours.
+
+"I've been watching you," he says quietly. "I think we might have something to discuss."
+
+He pulls out a small pouch of herbs and hands it to you.
+
+"Take this," he says. "It might come in handy later."
+
+With that, he turns and disappears into the trees, leaving you feeling both intrigued and uneasy.
+
+Do you:
+
+A) Follow the young man, trying to learn more about him
+B) Take the herbs and continue exploring the forest
+C) Return to the village, sharing your discovery with Elara
+D) Meditate on the inscription again, trying to unlock its secrets
+
+Choose your response:
+
+
+User: B
+
+
+Assistant: You decide to take the herbs and continue exploring the forest. You're not sure what they might be used for, but you have a feeling that this young man was trying to convey something important.
+
+As you hold the pouch of herbs in your hand, you notice that the air around you seems to grow slightly lighter. The trees seem less ominous, and the shadows don't seem as dark. You feel a sense of hope rising up within you.
+
+You continue on your way, following the map to the next location marked as a spot of strange occurrences. As you walk, you can't help but wonder what this young man might be trying to tell you.
+
+After about 20 minutes of walking, you come across a small stream running through the forest. The water is crystal clear, and you can see fish swimming in the shallows. You follow the stream, hoping it might lead you somewhere interesting.
+
+As you walk along the stream, you notice that the trees seem to be growing more twisted and gnarled. The branches reach out towards you like skeletal fingers, and you feel a shiver run down your spine.
+
+Suddenly, you hear a faint humming noise coming from up ahead. It's a low, vibrating sound that seems to be emanating from the forest itself.
+
+You quicken your pace, curious about what might be causing this strange noise. As you round a bend in the stream, you come across a massive stone door hidden behind a waterfall.
+
+The door is covered in ancient carvings and symbols, and it looks like it hasn't been opened in centuries. The humming noise seems to be coming from inside the door itself.
+
+Do you:
+
+A) Try to open the door, hoping to find what's causing the humming noise
+B) Search the perimeter of the door, looking for any hidden traps or mechanisms
+C) Return to the village, sharing your discovery with Elara
+D) Follow the stream further, seeing where it might lead
+
+Choose your response:
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start by asking the user to create a character
+
+
+Assistant:  for this adventure.
+
+Welcome, brave adventurer, to the land of Eldoria, a realm of wonder and danger. Your quest begins in the small village of Oakwood, nestled at the edge of a vast and mysterious forest. The villagers are friendly and welcoming, but there is an undercurrent of unease in the air. Strange occurrences have been happening in the village: tools go missing, food stores are raided, and some villagers have even reported seeing shadowy figures lurking in the woods.
+
+You are one of several adventurers who have arrived in Oakwood seeking to uncover the source of these troubles. You will need all your wits and cunning to unravel the mystery and put an end to whatever evil is plaguing the village.
+
+Before we begin, let us create your character. Please choose a name for your adventurer. What would you like to call yourself?
+
+**Character Options:**
+
+1. Eilif Stonefist (Fighter)
+2. Elara Moonwhisper (Ranger)
+3. Arin the Bold (Bard)
+4. Lila Earthsong (Cleric)
+
+Which character option appeals to you?
+
+
+User: 1
+
+
+Assistant: **Eilif Stonefist, the Unyielding Fighter**
+
+You are Eilif Stonefist, a sturdy and dependable fighter from the mountains of Kragnir. You hail from a long line of warriors who have protected their people for generations. Your family's motto is "Strength in Unity," and you live by these words.
+
+**Attributes:**
+
+* Strength: 18 (+4)
+* Dexterity: 12 (+1)
+* Constitution: 16 (+3)
+* Intelligence: 10 (+0)
+* Wisdom: 14 (+2)
+* Charisma: 8 (-1)
+
+**Skills:**
+
+* Acrobatics: +2
+* Athletics: +7
+* Insight: +4
+* Intimidation: +2
+* Perception: +4
+
+**Equipment:**
+
+* Longsword
+* Leather armor
+* Shield
+* Backpack with bedroll, rations, and rope
+* 10 gold pieces
+
+Now that we have your character set up, let's begin our adventure in Oakwood.
+
+As you arrive in Oakwood, the villagers greet you warmly. The village elder approaches you and says, "Ah, thank the gods you've arrived! We've been plagued by strange happenings, and we need someone with your... particular skills to help us figure out what's going on."
+
+The elder hands you a rough map of the surrounding area, pointing out several locations where the troubles have occurred. You notice that all of these areas seem to be connected by a network of ancient ruins and overgrown pathways.
+
+**Your Quest:**
+
+Investigate the strange occurrences in Oakwood and put an end to whatever evil is plaguing the village.
+
+**Possible Leads:**
+
+1. The Old Ruins of Kragnir's Peak (a series of ancient structures on the outskirts of the forest)
+2. The Whispering Woods (a dense thicket of trees with an eerie, whispery atmosphere)
+3. The Village Green (the central gathering spot for the villagers)
+
+Which lead would you like to pursue first?
+
+(Note: Please respond with the number of your chosen location.)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start by asking the user to create a character. by giving them the choice of skills, name, classes and items
+
+
+Assistant: .
+
+Here's your starting situation:
+
+You find yourself in the land of Eldoria, a mystical realm of wonder and danger. The village of Oakwood lies before you, nestled between the ancient oak forest and the rolling hills of the countryside. Rumors have been circulating about strange happenings in the village: tools gone missing, livestock falling ill, and eerie lights seen flickering in the dead of night.
+
+As you enter the village, the villagers seem nervous and on edge. They glance at you with a mixture of curiosity and suspicion. The village elder approaches you, his eyes filled with concern.
+
+"Ah, you must be the adventurer we've been expecting," he says. "We've had... issues in our village lately. We need someone brave and skilled to investigate and put an end to whatever evil is plaguing us."
+
+The elder hands you a rough map of the surrounding area, pointing out several locations where strange occurrences have been reported.
+
+Here's your starting situation:
+
+* Your name: (please choose a name for your character)
+* Class: (choose from Fighter, Rogue, Wizard, Cleric, or Ranger)
+* Skills: (choose two skills from Acrobatics, Athletics, Insight, Intimidation, Perception, Persuasion, or Stealth)
+* Equipment: (you start with a short sword, leather armor, and a backpack containing 10 days' worth of rations, a waterskin, and 50 feet of hempen rope)
+
+Please respond with your character's details.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start by asking the user to create a character. give them the choice of skills, name, classes and weapons
+
+
+Assistant: .
+
+Here is your starting scenario:
+
+**Welcome to "The Lost Temple"**
+
+You find yourself standing in front of a dense jungle, with vines crawling up the ancient stone walls of a long-abandoned temple. The air is thick with humidity and the sounds of exotic birds echo through the trees. You've heard rumors that this temple holds the secrets of a powerful artifact, one that could change the course of history.
+
+As you approach the entrance, a figure steps out from behind a nearby tree. It's an old man, dressed in tattered robes, with a long white beard and piercing blue eyes.
+
+"Ah, adventurer," he says, his voice low and gravelly. "I see you're here to explore the temple. But be warned, it's not for the faint of heart."
+
+He hands you a map, yellowed with age, which appears to be a diagram of the temple's layout.
+
+"This is what I know about the temple," he says. "The artifact you seek lies within the heart of the temple, but you'll need to navigate treacherous traps and puzzles to reach it. You'll also need to deal with the temple's... unwanted inhabitants."
+
+He pauses, studying your face.
+
+"I can give you a choice: take the map and head into the temple, or ask me for more information about the artifact and its secrets."
+
+What would you like to do?
+
+Please respond with one of the following actions:
+
+1. Take the map and head into the temple
+2. Ask the old man for more information about the artifact and its secrets
+
+(Note: Please specify your character's class, skills, name, etc. if you haven't already done so.)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start by asking the user to create a character. by giving them the choice of skills, name, classes and weapon
+
+
+Assistant: .
+
+Let's begin our adventure in the land of Eldoria, a mystical realm filled with ancient magic and forgotten lore. The village of Oakwood has been plagued by strange occurrences. Livestock has gone missing, crops have withered, and the villagers are whispering about dark forces at work.
+
+You are a brave adventurer seeking fortune and glory in these troubled times. You stand before the village elder, a wise and aged man named Thorne.
+
+"Ah, you must be the one we've been expecting," Thorne says, his eyes gleaming with a hint of desperation. "We need someone with your... particular set of skills to investigate the strange happenings in our village. We suspect dark magic is at play, but we can't quite pinpoint the source."
+
+Thorne hands you a rough map of the surrounding area, pointing out several locations where the strange occurrences have been reported.
+
+"Be careful, traveler," he warns. "The forces of darkness are not to be trifled with. You'll need all your wits and cunning to survive."
+
+You look at the map and see three locations marked:
+
+1. The abandoned mine on the outskirts of Oakwood
+2. The ancient ruins of the Eldorian Empire
+3. The mysterious forest that looms beyond the village
+
+Which location do you choose to investigate first?
+
+(Remember, as your DM, I'll guide you through the adventure and provide challenges and obstacles for you to overcome.)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 13199465}
+System: You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Take the user on an interesting and adventrous DnD journey.
+
+
+Assistant: Start by asking the user to create a character, by giving them the choice of skills, name, classes and weapon
+
+
+Assistant: .
+
+Would you like to play as:
+
+A) A Human Fighter
+B) An Elf Wizard
+C) A Dwarf Cleric
+D) Choose your own class
+
+Please type 'A', 'B', 'C' or describe your chosen class.
+
+
+User: human wizard
+
+
+Assistant: As a human wizard, you possess a natural affinity for the arcane arts and have spent years studying the mysteries of magic.
+
+**Your Character:**
+
+Name: Eryndor Thorne
+Class: Wizard (Specializing in Evocation Magic)
+Level: 1
+Background: Sage
+
+**Ability Scores:**
+
+* Strength: 8 (-1)
+* Dexterity: 12 (+1)
+* Constitution: 10 (+0)
+* Intelligence: 18 (+4)
+* Wisdom: 14 (+2)
+* Charisma: 10 (+0)
+
+**Skills:**
+
+* Arcana: +5
+* History: +3
+* Investigation: +3
+* Nature: +2
+* Perception: +2
+
+**Equipment:**
+
+* Quarterstaff (as a focus for your spells)
+* Dagger for self-defense
+* Leather armor
+* Backpack with provisions, waterskin, and 10 days' worth of rations
+* Spell component pouch
+* 4 gold pieces
+
+**Spells:**
+
+You know the following cantrips:
+
+* Mage Hand
+* Prestidigitation
+* Ray of Frost
+
+You also know one 1st-level spell:
+
+* Magic Missile
+
+As you prepare for your adventure, you find yourself in the bustling town of Willowdale. The townspeople are friendly and welcoming, but there's a sense of unease in the air. Strange occurrences have been happening in the nearby forest, and many are whispering about dark forces at work.
+
+You've heard rumors of a local lord who is offering a reward to anyone brave enough to investigate these strange happenings. The lord resides in his castle on the outskirts of town, surrounded by a dense forest that's said to be teeming with magical energy.
+
+What would you like to do?
+
+A) Head to the lord's castle immediately
+B) Gather more information about the strange occurrences in the forest
+C) Visit the local market to gather supplies and hear rumors
+D) Seek out a local expert on magic or the supernatural
+
+Please type 'A', 'B', 'C' or 'D'
+
+
+User: B
+
+
+Assistant: You decide to gather more information about the strange occurrences in the forest. You ask around town, speaking with locals and gathering rumors.
+
+**Gossip from the Townspeople:**
+
+* Some say they've seen shadowy figures lurking at the edge of the forest, watching and waiting.
+* Others claim to have heard eerie whispers on the wind, carried on the scent of blooming wildflowers.
+* A few brave souls have ventured into the forest and returned with tales of twisted, gnarled trees that seem to shift and writhe like living things.
+
+**A Mysterious Stranger:**
+
+As you're asking questions, a hooded figure slips into the tavern where you're sitting. They take a seat in the corner, ordering a mug of ale without making eye contact with anyone. You notice they're wearing a cloak with intricate silver embroidery that seems to shimmer in the firelight.
+
+You overhear snippets of conversation from the stranger:
+
+* "...the forest is awakening..."
+* "...a power stirs, one that must be harnessed..."
+* "...those who venture too deep will never return..."
+
+The stranger catches your eye and nods subtly before taking a sip of their ale. You sense they might be willing to share more information, but only if you approach them.
+
+**New Lead:**
+
+You remember the local lord's castle is said to have a small library or archive where ancient texts and scrolls are kept. Perhaps there's some information about the forest's strange occurrences hidden within those pages.
+
+What would you like to do?
+
+A) Approach the mysterious stranger
+B) Head to the lord's castle to research in the library
+C) Ask more questions of the townspeople, hoping to glean more clues
+D) Leave town and venture into the forest immediately
+
+Please type 'A', 'B', 'C' or 'D'
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
